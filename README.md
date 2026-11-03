@@ -1,1 +1,1 @@
-# WordleCopy
+This is a personal project where I'm trying to replicate Wordle, the wildly popular word-guessing game, in Java. I'm only using what I've learned in my intro class, so the code sticks to basic concepts. So far, the program picks a random 5-letter word from a list in wordle-answers.txt to use as the answer. I'm building the guessing and feedback parts next.
